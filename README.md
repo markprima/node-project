@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://videos.cults3d.com/yvHtRzGmBC6-V8C-f6X0rGTXwxM=/113x113/top/filters:format(webp)/https://files.cults3d.com/uploaders/20852402/illustration-file/7d09d773-3ada-41d4-ac78-af4f9bd8146d/ezgif.com-gif-maker.gif" alt="Devops Engineer" width="200">
+  <img src="https://media.tenor.com/fTn8nzYCO1QAAAAM/kuru-kuru-kuru.gif" alt="Devops Engineer" width="200">
 </p>
 
 # Node Project
