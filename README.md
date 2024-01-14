@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="https://media.tenor.com/fTn8nzYCO1QAAAAM/kuru-kuru-kuru.gif" alt="Devops Engineer" width="200">
 </p>
 
